@@ -1,2 +1,0 @@
-# TripAdvisor-E-Management
-salesforce
